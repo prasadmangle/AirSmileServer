@@ -1,0 +1,6 @@
+{
+    "connString": "mongodb://localhost:27017/airlineInfo",
+    "secretKey":"my_secret_key",
+    "salt":"my_secret_salt",
+    "superAdmin":"prasadmangle@gmail.com"
+}
